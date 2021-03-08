@@ -1,0 +1,123 @@
+*{margin:0;padding: 0;
+    font-family: Sans-serif;}
+/* header     */
+.header{background:linear-gradient(to right,#CE171F ,#8B0304);
+    padding-top: 17px;
+}
+.logoimg{padding-left: 116px;}
+.menu{}
+.menu ul{}
+.menu ul li{display: inline-block;
+    text-decoration:none;}
+.menu ul li a{
+    color: white;
+    padding: 0px 8px;
+    font-size: 19px;
+    text-decoration: none;}
+.menu ul li a:hover{color:#CC0000}
+.iconmenu{font-size: 21px;
+    padding: 0px 0px;}
+.iconmenu ul{}
+.iconmenu ul li{display: inline-block;
+    text-decoration: none;
+    padding:0 10px;
+}
+.iconmenu ul li a{color:white;
+    
+}
+.iconmenu ul li a:hover{color: #CC0000;
+}
+/* secondpart start */
+.secondpart{background-image: url(images/jail.jpg);
+background-repeat: no-repeat;
+color:white;
+font-weight: bold;
+font-size:30px ;}
+.secondpart p:hover{color:#CC0000}
+
+.secondpart2nd{font-size: 26px;
+    width: 36%;
+    margin-left: 54px;
+    padding: 14px 0px;
+}
+.secondpart2nd ul{}
+.secondpart2nd ul li{
+display: block;}
+.secondpart2nd ul li a{
+text-decoration: none;
+border-bottom: 1px solid lightgray;
+padding: 7px 0px;
+color:black;
+font-weight: bold;
+font-size: 16px;
+}
+.secondpart2nd ul li a:hover{color:#CC0000
+}
+/* 3rd part start */
+.thirdpart{}
+
+.thirdpart img {
+    width: 98%;
+    height: 66%;
+}
+
+.imgsingle{  }
+.imgsingle a{  color: black;
+    text-decoration: none;
+    font-size: 16px;
+}
+h5 a {font-weight: bold;}
+h5 a:hover{color:#CC0000}
+
+/* 4th part start */
+.fourthpart img{width: 104%;
+    height: 47%;}
+.thirdimgsingle a{
+    color: black;
+    text-decoration: none;
+}
+.thirdimgsingle h5 a:hover{color:#CC0000}
+.thirdimgsingle h5 a{font-size: 16px;
+width:100%}
+
+.corona{}
+.corona h4{background:#CC0000;
+color:white;
+text-align: center;
+padding: 8px 25px;
+}
+
+.corona {}
+.corona a{ text-decoration: none;
+  
+}
+.red{background: red;
+    padding: 8px 25px;
+    padding-left: 25px;
+    margin-left: 9px;
+    border-radius: 4px;
+    color:white;
+    text-decoration: none;
+}
+
+
+.green{background: green;
+    padding: 8px 25px;
+    padding-left: 25px;
+    margin-left: 9px;
+    border-radius: 4px;
+    color:white;
+    text-decoration: none;
+}
+
+.first{float:left;
+/* background:lightgreen; */
+text-align: center;
+}
+
+.second{float:right;
+    /* background:pink; */
+    text-align: center;}
+    /* footer */
+    .footer{border-top:1px solid grey;
+    text-align: center;}
