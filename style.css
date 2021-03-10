@@ -35,10 +35,10 @@ font-weight: bold;
 font-size:30px ;}
 .secondpart p:hover{color:#CC0000}
 
-.secondpart2nd{font-size: 26px;
+.secondpart2nd{font-size: 23px;
     width: 36%;
-    margin-left: 54px;
-    padding: 14px 0px;
+    margin-left: 45px;
+    padding: 3px 0px;
 }
 .secondpart2nd ul{}
 .secondpart2nd ul li{
@@ -46,10 +46,11 @@ display: block;}
 .secondpart2nd ul li a{
 text-decoration: none;
 border-bottom: 1px solid lightgray;
-padding: 7px 0px;
+padding: 6px 0px;
 color:black;
 font-weight: bold;
-font-size: 16px;
+font-size: 17px;
+    display:block;
 }
 .secondpart2nd ul li a:hover{color:#CC0000
 }
