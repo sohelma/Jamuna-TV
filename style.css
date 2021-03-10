@@ -32,25 +32,27 @@
 background-repeat: no-repeat;
 color:white;
 font-weight: bold;
-font-size:30px ;}
+font-size:30px ;
+/* background-size: cover; */
+}
 .secondpart p:hover{color:#CC0000}
 
 .secondpart2nd{font-size: 23px;
-    width: 36%;
+    width: 37%;
     margin-left: 45px;
     padding: 3px 0px;
 }
 .secondpart2nd ul{}
 .secondpart2nd ul li{
-display: block;}
+}
 .secondpart2nd ul li a{
 text-decoration: none;
 border-bottom: 1px solid lightgray;
 padding: 6px 0px;
 color:black;
-font-weight: bold;
+/* font-weight: bold; */
 font-size: 17px;
-    display:block;
+display:block
 }
 .secondpart2nd ul li a:hover{color:#CC0000
 }
